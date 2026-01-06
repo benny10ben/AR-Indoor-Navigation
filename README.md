@@ -1,4 +1,4 @@
-# 🗺️ AR Indoor Navigation
+# 🗺️ AR Indoor Navigation (Not for production)
 
 An Augmented Reality indoor navigation system built with Unity and AR Foundation for real-time wayfinding in complex indoor environments.
 
@@ -56,14 +56,3 @@ cd AR-Indoor-Navigation
 ## 📱 APK Installation
 
 Download the pre-built APK from the releases and install on your Android device. Ensure "Install from Unknown Sources" is enabled.
-
-## 📂 Project Structure
-
-```
-Assets/
-├── Scenes/          # Unity scenes
-├── Scripts/         # C# scripts
-├── Materials/       # Materials and textures
-├── Prefabs/         # Reusable game objects
-└── XR/              # AR configuration
-```
