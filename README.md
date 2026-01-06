@@ -27,10 +27,10 @@ This project uses AR technology to guide users through indoor spaces by overlayi
 ![Navigation Interface](Screenshots/navigation.png)
 
 ### AR Path Overlay
-![AR Path](screenshots/ar-path.jpg)
+![AR Path](Screenshots/ar-path.png)
 
 ### Target Selection
-![Target Selection](screenshots/target-selection.jpg)
+![Target Selection](Screenshots/target-selection.png)
 
 ## 🚀 Getting Started
 
