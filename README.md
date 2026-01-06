@@ -2,7 +2,7 @@
 
 An Augmented Reality indoor navigation system built with Unity and AR Foundation for real-time wayfinding in complex indoor environments.
 
-## 📱 overview
+## 📱 Overview
 
 This project uses AR technology to guide users through indoor spaces by overlaying directional arrows and path markers on the real-world view through their mobile device camera.
 
